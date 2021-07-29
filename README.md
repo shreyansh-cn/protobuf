@@ -1,4 +1,4 @@
-# Go support for Protocol Buffers
+# Go support for Protocol Buffers 
 
 [![GoDev](https://img.shields.io/static/v1?label=godev&message=reference&color=00add8)](https://pkg.go.dev/mod/github.com/golang/protobuf)
 [![Build Status](https://travis-ci.org/golang/protobuf.svg?branch=master)](https://travis-ci.org/golang/protobuf)
